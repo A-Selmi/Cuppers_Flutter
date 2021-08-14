@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1075414306880",
+    "project_id": "cuppers-56273",
+    "storage_bucket": "cuppers-56273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1075414306880:android:3913fdd9edf516bd4ecfa5",
+        "android_client_info": {
+          "package_name": "com.abdullah.cuppers_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1075414306880-imd3rpv1i4tnd7m7qclsajnat0mf6h4v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.abdullah.cuppers_flutter",
+            "certificate_hash": "d705f4e210ca1c10d0d9e36bd5a1d17514be5fe3"
+          }
+        },
+        {
+          "client_id": "1075414306880-1mi6e4pt8s4jkpatehkf62tgbkqvjai6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHcvD7IjeCyGIdvv6PKNmmP8dZJnTyO8g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1075414306880-1mi6e4pt8s4jkpatehkf62tgbkqvjai6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
